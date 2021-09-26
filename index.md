@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+# 联合国可持续发展目标正面案例集
 
-You can use the [editor on GitHub](https://github.com/shosit2020/doc/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 目录
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shosit2020/doc/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+| 案例 | 跳转 | 
+| :-----| ----: | 
+| 目标1：无贫困 |  | 
+| 案例1. 国家密集型推进区块链农业技术 | [查看]() | 
+| 案例2. 用机器学习加卫星,斯坦福大学从太空中就能识别贫困地区 | [查看]() | 
+|  |  | 
+| 目标2：无饥饿 |  | 
+| 案例1. 农业人工智能识别病虫害——“耘眼”农业技术服务平台 | [查看]() | 
+| 案例2. 农业的未来：AI收割机器人具有新的灵活性技能 | [查看]() | 
+|  |  | 
+| 目标3：良好的健康和福祉|  | 
+| 案例1. 人工智能辅助诊断系统大显身手 | [查看]() | 
+| 案例2. AI深度学习，也许对防止超级传染者有帮助 | [查看]() | 
+| 案例3. AI 辅助诊断新冠肺炎：达摩院出品，20秒出结果、96% 准确率 | [查看]() | 
+| 案例4. AI大数据分析疫情走势 | [查看]() | 
+| 案例5. AI的检测与预防 | [查看]() | 
+| 案例6. 面对传染病，人工智能何为？ | [查看]() | 
+| 案例7. Facebook自残检测功能 | [查看]() | 
+|  |  | 
+| 目标4：有质量的教育|  | 
+| 案例1. 喜马拉雅首款带屏智能硬件小雅AI图书馆正式发售 | [查看]() | 
+| 案例2. 商汤科技护航百区千校中小学，AI基础教育普及不“掉线” | [查看]() | 
+| 案例3. 服务超过1000万用户，夸克搜索AI工具成志愿填报神器 | [查看]() | 
+|  |  | 
+| 目标5：性别平等|  | 
+| 案例1. 联合国CGF“促进人工智能算法性别平等”项目启动 | [查看]() | 
+|  |  | 
+| 目标6：清洁饮水和卫生设施|  | 
+| 案例1. 智慧水务：未来城市居民饮用水新趋势 | [查看]() | 
+|  |  | 
+| 目标7：经济适用的清洁能源|  | 
+| 案例1. 人工智能快速融入电网 | [查看]() | 
+|  |  | 
+| 目标8：体面工作和经济增长|  | 
+| 案例1. IBM 基于人工智能的学习| [查看]() | 
+| 案例2. FInSight人工智能实验室为金融场景实现AI赋能| [查看]() | 
+| 案例3. 银行使用AI的另一种方式是发送移动警报以帮助防止欺诈| [查看]() | 
+| 案例4. AI赋能旅游新体验| [查看]() | 
+|  |  | 
+| 目标9：产业、创新和基础设施|  | 
+| 案例1.「智能感知与交互」的工业化进程| [查看]() | 
+| 案例2. 南方电网首个工业级视觉定位AR技术试点研究| [查看]() | 
+| 案例3. 华为助天津港5G港口业务性能评估监测系统运行| [查看]() | 
+|  |  | 
+| 目标10：减少不平等|  | 
+| 案例1. 新冠疫情世界里的人工智能| [查看]() | 
+| 案例2. 智慧养老｜当“人工智能”遇上“养老”，将会擦出哪些火花？| [查看]() | 
+| 案例3. 长木谷AI骨科智能化队伍扩员| [查看]() | 
+|  |  | 
+| 目标11：可持续城市和社区|  | 
+| 案例1. 深圳交通、气象借助人工智能实现智慧化升级 | [查看]() | 
+| 案例2. AI破解汛情“密码” 防汛抗洪守护家园 | [查看]() | 
+| 案例3. AI“上路”，道阻且长！AI智能交通深入变革出行方式 | [查看]() | 
+| 案例4. 景观式超炫酷智能垃圾站告别“脏乱差” | [查看]() | 
+| 案例5. “青桔智控中心”实现共享单车智能调度运营 | [查看]() | 
+| 案例6. 人脸识别技术进社区，让老有所依、幼有所安 | [查看]() | 
+| 案例7. 广东又一网红公园爆火，超级智能公园，被称为当地的“娱乐之光” | [查看]() 
+|  |  | 
+| 目标12：负责任消费和生产 |  | 
+| 案例1. 谷歌搜索功能 | [查看]() | 
+| 案例2. Protera利用AI打造可持续蛋白质产品 | [查看]() | 
+|  |  | 
+| 目标13：气候行动 |  | 
+| 案例1. 微软提出开发适用于所有企业的零排放线路图倡议 | [查看]() | 
+|  |  | 
+| 目标14：水下生物 |  | 
+| 案例1. 人工智能保护海洋生态 | [查看]() | 
+|  |  | 
+| 目标15：陆地生物 |  | 
+| 案例1. 行星计算机：以全球数据推动可持续发展 | [查看]() | 
+| 案例2. 森林防火进入人工智能新时代 | [查看]() | 
+|  |  | 
+| 目标16：和平、正义与强大机构 |  | 
+| 案例1. AI工具以99％的准确性检测虐待儿童的图像 | [查看]() | 
+| 案例2. 全国首个AI虚拟法官助力人工智能在司法领域应用的典范 | [查看]() | 
+|  |  | 
+| 目标17：促进目标实现的伙伴关系 |  | 
+| 案例1. 人工智能助力进出口货物通关提速 制单正确率可达到96% | [查看]() | 
+| 案例2. 法加德等15国成立“人工智能全球合作伙伴组织” | [查看]() | 
