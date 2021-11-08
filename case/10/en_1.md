@@ -25,7 +25,7 @@ The application and promotion of artificial intelligence in the medical field is
 
 ## Pictures
 
-![图片](10.1.jpg)
+![图片](10.1.1.jpg)
 
 
 
