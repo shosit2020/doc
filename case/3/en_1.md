@@ -41,8 +41,8 @@ The application and promotion of AI in the medical field is in line with the Sus
 
 ## Pictures
 
-![图片](3.1.1.jpg)
-![图片](3.1.2.jpg)
+![图片](3.1.jpg)
+![图片](3.2.jpg)
 
 
 
