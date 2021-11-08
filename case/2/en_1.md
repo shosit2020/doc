@@ -22,8 +22,8 @@ The fundamental way out to solve the above problems is to empower agricultural p
 
 ## Pictures
 
-![图片](2.1.jpg)
-![图片](2.2.jpg)
+![图片](1.1.jpg)
+
 
 
 
