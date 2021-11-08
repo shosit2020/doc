@@ -4,8 +4,8 @@
 
 ## 目录
 
-| 案例| | 跳转 | 
-| :-----| :-----| ----: | 
+| 案例|  跳转 | 
+| :-----| ----: | 
 | 目标 1：无贫困 <br/>Goal 1: No poverty|  | 
 | 案例 1. 国家密集型推进区块链农业技术<br/>Case 1. State-intensive promotion of blockchain agricultural technology | [查看](case/1/1.md) <br/>[View](case/1/en_1.md)| 
 | 案例 2. 用机器学习加卫星,斯坦福大学从太空中就能识别贫困地区<br/>Case 2. Using machine learning and satellite, Stanford University can identify poor areas from space | [查看](case/1/2.md) <br/>[View](case/1/en_2.md) | 
