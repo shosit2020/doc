@@ -4,15 +4,15 @@
 
 ## 目录
 
-| 案例| | 跳转 | 
-| :-----| :-----| ----: | 
-| 目标 1：无贫困 <br/>Goal 1: No poverty|  | 
-| 案例 1. 国家密集型推进区块链农业技术<br/>Case 1. State-intensive promotion of blockchain agricultural technology | [查看](case/1/1.md) <br/>[View](case/1/en-1.md)| 
-| 案例 2. 用机器学习加卫星,斯坦福大学从太空中就能识别贫困地区<br/>Case 2. Using machine learning and satellite, Stanford University can identify poor areas from space | [查看](case/1/2.md) <br/>[View](case/1/en_2.md) | 
+| 案例|  跳转 | 
+| :-----|:-----|----: | 
+| 目标1：无贫困 || |
+| 案例1. 国家密集型推进区块链农业技术 | [查看](case/1/1.md) | 
+| 案例2. 用机器学习加卫星,斯坦福大学从太空中就能识别贫困地区 | [查看](case/1/2.md) | 
 |  |  | 
-| 目标 2：无饥饿 |  | 
-| 案例 1. 农业人工智能识别病虫害——“耘眼”农业技术服务平台 | [查看](case/2/1.md) | 
-| 案例 2. 农业的未来：AI收割机器人具有新的灵活性技能 | [查看](case/2/2.md) | 
+| 目标2：无饥饿 |  | 
+| 案例1. 农业人工智能识别病虫害——“耘眼”农业技术服务平台 | [查看](case/2/1.md) | 
+| 案例2. 农业的未来：AI收割机器人具有新的灵活性技能 | [查看](case/2/2.md) | 
 |  |  | 
 | 目标3：良好的健康和福祉|  | 
 | 案例1. 人工智能辅助诊断系统大显身手 | [查看](case/3/1.md) | 
