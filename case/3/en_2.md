@@ -1,4 +1,4 @@
-# Using machine learning plus satellite, Stanford can identify poor areas from space
+# AI Assisted diagnosis of COVID-19
 
 [![Return to directory](http://img.shields.io/badge/Click-Back-875A7B.svg?style=flat&colorA=8F8F8F)](/)
 [![Switch Chinese](http://img.shields.io/badge/Switch-Chinese-875A7B.svg?style=flat&colorA=8F8F8F)](https://doc.shanghaiopen.org.cn/case/3/2.html)
