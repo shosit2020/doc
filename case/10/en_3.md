@@ -28,7 +28,7 @@ The application and promotion of artificial intelligence in the medical field is
 ## Pictures
 
 ![图片](10.3.1.jpg)
-
+Figure: The "AI HIP system" independently developed by Changmu Valley
 
 
 ----------
