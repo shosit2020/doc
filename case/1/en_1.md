@@ -27,9 +27,6 @@ Take this epidemic as an example. Due to the information asymmetry, the sales of
 ![图片](1.1.jpg)
 ![图片](1.2.jpg)
 
-## 标签
-
-消除贫困（SDG1）、可持续农业（SDG2）
 
 
 ----------
