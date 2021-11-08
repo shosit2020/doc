@@ -30,5 +30,5 @@ Take this epidemic as an example. Due to the information asymmetry, the sales of
 
 
 ----------
-
- [![Next](http://img.shields.io/badge/View-Next-875A7B.svg?style=flat&colorA=8F8F8F)](https://doc.shanghaiopen.org.cn/case/1/2.html)
+ [![Previous](http://img.shields.io/badge/View-Previous-875A7B.svg?style=flat&colorA=8F8F8F)](https://doc.shanghaiopen.org.cn/case/1/en_1.html)
+ [![Next](http://img.shields.io/badge/View-Next-875A7B.svg?style=flat&colorA=8F8F8F)](https://doc.shanghaiopen.org.cn/case/2/en_1.html)
