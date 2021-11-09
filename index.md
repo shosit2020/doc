@@ -17,11 +17,11 @@
 |  |  | 
 | 目标3：良好的健康和福祉 <br/>Goal 3: Good health and well-being|  | 
 | 案例1. 人工智能辅助诊断系统大显身手<br/>Case 1. Artificial intelligence-assisted diagnosis system shows its skill | [查看](case/3/1.md) <br/>[View](case/3/en_1.md)| 
-| 案例2. AI 辅助诊断新冠肺炎<br/>Case 2. AI assisted diagnosis of COVID-19 | [查看](case/3/3.md) <br/>[View](case/3/en_3.md)| 
-| 案例3. AI 大数据分析疫情走势<br/>Case 3. AI big data analysis of the epidemic trend | [查看](case/3/4.md)<br/>[View](case/3/en_4.md)| 
-| 案例4. AI的检测与预防<br/>Case 4. Detection and Prevention of AI | [查看](case/3/5.md)<br/>[View](case/3/en_5.md)| 
-| 案例5. 人工智能防治传染病<br/>Case 5. Artificial intelligence to fight infectious diseases | [查看](case/3/6.md)<br/>[View](case/3/en_6.md)| 
-| 案例6. Facebook自残检测功能<br/>Case 6. Facebook self-residue detection function | [查看](case/3/7.md)<br/>[View](case/3/en_7.md)| 
+| 案例2. AI 辅助诊断新冠肺炎<br/>Case 2. AI assisted diagnosis of COVID-19 | [查看](case/3/2.md) <br/>[View](case/3/en_2.md)| 
+| 案例3. AI 大数据分析疫情走势<br/>Case 3. AI big data analysis of the epidemic trend | [查看](case/3/3.md)<br/>[View](case/3/en_3.md)| 
+| 案例4. AI的检测与预防<br/>Case 4. Detection and Prevention of AI | [查看](case/3/4.md)<br/>[View](case/3/en_4.md)| 
+| 案例5. 人工智能防治传染病<br/>Case 5. Artificial intelligence to fight infectious diseases | [查看](case/3/5.md)<br/>[View](case/3/en_5.md)| 
+| 案例6. Facebook自残检测功能<br/>Case 6. Facebook self-residue detection function | [查看](case/3/6.md)<br/>[View](case/3/en_6.md)| 
 |  |  | 
 | 目标4：有质量的教育 <br/>Goal 4: Quality education|  | 
 | 案例1. 喜马拉雅首款带屏智能硬件小雅AI图书馆正式发售<br/>Case 1. Himalaya's first screen intelligent hardware Xiaoya AI Library was officially released | [查看](case/4/1.md)<br/>[View](case/4/en_1.md)| 
@@ -60,7 +60,7 @@
 of travel | [查看](case/11/3.md) <br/>[View](case/11/en_3.md)| 
 | 案例4. 景观式超炫酷智能垃圾站告别“脏乱差” <br/>Case 4. Landscape type super cool intelligent garbage station bid farewell to "dirty and messy" | [查看](case/11/4.md) <br/>[View](case/11/en_4.md)| 
 | 案例5. “青桔智控中心”实现共享单车智能调度运营 <br/>Case 5. "Green Orange Intelligent Control Center" realizes the intelligent scheduling and operation of shared bies | [查看](case/11/5.md) <br/>[View](case/11/en_5.md)| 
-| 案例6. 广东又一网红公园爆火，超级智能公园，被称为当地的“娱乐之光” <br/>Case 6. Guangdong another network red park fire, super intelligent park, known as the local "entertainment light" | [查看](case/11/7.md) <br/>[View](case/11/en_7.md)|
+| 案例6. 广东又一网红公园爆火，超级智能公园，被称为当地的“娱乐之光” <br/>Case 6. Guangdong another network red park fire, super intelligent park, known as the local "entertainment light" | [查看](case/11/6.md) <br/>[View](case/11/en_6.md)|
 |  |  | 
 | 目标12：负责任消费和生产 <br/>Goal 12: Responsible consumption and production |  | 
 | 案例1. 谷歌搜索功能 <br/>Case 1. Google Search feature | [查看](case/12/1.md) <br/>[View](case/12/en_1.md)| 
